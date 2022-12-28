@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **SnowballFox/SnowballFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">   
+<a href="https://github.com/SnowballFox">     
+<img src="https://github-readme-stats.vercel.app/api?username=SnowballFox&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />  
+</a> 
+</p>
